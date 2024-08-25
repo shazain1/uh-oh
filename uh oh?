@@ -12,7 +12,7 @@ return {
         ["279e99de-144d-4f09-aad3-cdf8ae2ebfa2"] = true, --
     },
     verifiedUserIds = {
-        [7258661703] = true, --My Account
+        [1] = true, --My Account
         [7242082019] = true, --Arda
         [7244962828] = true, --SBIKASBIKA
         [7162991400] = true, --NC_Gurdian1
