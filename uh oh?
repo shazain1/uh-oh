@@ -5,6 +5,7 @@ return {
     ["f76fea6b-b85c-44e3-a32a-077d882183d2"] = true, --Ishacute1735
     ["f100d945-52b8-4ffa-85c5-2c31cd8c56e5"] = true, --TeamDsYOwnYou
     ["432dff4c-30b8-482d-a9d3-3bc3ce99b555"] = true, --boredsalttt2
+    ["5f5f7908-9020-4ba5-acd4-7add6f3a8b4f"] = true, --NC_Gurdian1
     },
     verifiedUserIds = {
     [7258661703] = true, --SomeoneLikeOldMan
@@ -12,5 +13,6 @@ return {
     [7071081969] = true, --Ishacute1735
     [7257583146] = true, --TeamDsYOwnYou
     [7264554072] = true, --boredsalttt2
+    [7162991400] = true, --NC_Gurdian1
     }
 }
