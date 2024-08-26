@@ -1,28 +1,8 @@
 return {
     verifiedHWIDs = {
-    ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true, --My Phone
-    ["7050ac06-953b-4626-aa52-9201271d5ad3"] = true, --SBIKASBIKA
-    ["6b5312a9-965a-4126-abfb-28281db6cb00"] = true, --Shii
-    ["59eba268-b67c-4749-9520-3dbe947de49d"] = true, --Ezzzzz_ClientNN
-    ["279e99de-144d-4f09-aad3-cdf8ae2ebfa2"] = true, --opro_ahmed
-    ["36b8fb49-ed70-45c3-94bf-9adad216d388"] = true, --carmelito07
-    ["8c6b4b76-a46f-4fb1-9e28-4bc22e404c21"] = true, --My PC
-    ["49dcf1e5-6c63-415e-b02a-43c1c1fbf5c4"] = true, --NC_Gurdian1
-    ["f8aa1c71-6519-408d-9442-3f7d518691e0"] = true, --Ishacute1735
+    ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true,- Feast(phone)
     },
     verifiedUserIds = {
-    [7258661703] = true, --My Account
-    [7242082019] = true, --Arda
-    [7244962828] = true, --SBIKASBIKA
-    [7162991400] = true, --NC_Gurdian1
-    [7243740345] = true, --shiii
-    [4654827895] = true, --Haram
-    [4298015048] = true, --Feast
-    [3552067237] = true, --opro_ahmed
-    [6190239140] = true, --Ezzzzz_ClientNN
-    [7181624960] = true,
-    [1630903650] = true, --Tripp
-    [7066143246] = true, --carmelito07
-    [7071081969] = true, --Ishacute1735
+    [7258661703] = true, --SomeoneLikeOldMan
     }
 }
