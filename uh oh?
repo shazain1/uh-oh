@@ -4,11 +4,13 @@ return {
     ["6b5312a9-965a-4126-abfb-28281db6cb00"] = true, --dontrymeagain01
     ["f76fea6b-b85c-44e3-a32a-077d882183d2"] = true, --Ishacute1735
     ["f100d945-52b8-4ffa-85c5-2c31cd8c56e5"] = true, --TeamDsYOwnYou
+    ["432dff4c-30b8-482d-a9d3-3bc3ce99b555"] = true, --boredsalttt2
     },
     verifiedUserIds = {
     [7258661703] = true, --SomeoneLikeOldMan
     [7260035794] = true, --dontrymeagain01
     [7071081969] = true, --Ishacute1735
     [7257583146] = true, --TeamDsYOwnYou
+    [7264554072] = true, --boredsalttt2
     }
 }
