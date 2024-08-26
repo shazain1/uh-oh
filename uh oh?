@@ -1,5 +1,6 @@
 return {
     verifiedHWIDs = {
+    ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true, --My Phone
     ["7050ac06-953b-4626-aa52-9201271d5ad3"] = true, --SBIKASBIKA
     ["6b5312a9-965a-4126-abfb-28281db6cb00"] = true, --Shii
     ["59eba268-b67c-4749-9520-3dbe947de49d"] = true, --Ezzzzz_ClientNN
