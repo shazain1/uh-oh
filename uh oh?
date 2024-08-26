@@ -1,9 +1,10 @@
 return {
     verifiedHWIDs = {
-    ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true,- Feast(phone)
-    
+    ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true, --Feast(phone)
+    ["6b5312a9-965a-4126-abfb-28281db6cb00"] = true, --dontrymeagain01
     },
     verifiedUserIds = {
     [7258661703] = true, --SomeoneLikeOldMan
+    [7260035794] = true, --dontrymeagain01
     }
 }
