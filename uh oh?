@@ -2,7 +2,7 @@ return {
     verifiedHWIDs = {
     ["2a98f6a7-26ee-45a4-b7a2-21f1de9dc4bb"] = true, --Feast(phone)
     ["ecceea94-7359-4539-ba68-18862e90a167"] = true, --betternowck
-    ["63da3a04-0da6-4b89-a26d-fb09b62a2ebb"] = true, --Ishacute1735
+    ["63da3a04-0da6-4b89-a26d-fb09b62a2ebb"] = true, --Ishcutie1735
     ["ce5dcf95-f504-40ac-8693-65c391fbcedc"] = true, --TeamDsYOwnYou
     ["432dff4c-30b8-482d-a9d3-3bc3ce99b555"] = true, --boredsalttt2
     ["c43bee5a-cf1e-4624-bcb0-4034763051fb"] = true, --NC_Gurdian1
@@ -11,7 +11,7 @@ return {
     verifiedUserIds = {
     [7258661703] = true, --SomeoneLikeOldMan
     [7270826948] = true, --betternowck
-    [7071081969] = true, --Ishacute1735
+    [7268900840] = true, --Ishcutie1735
     [7257583146] = true, --TeamDsYOwnYou
     [7264554072] = true, --boredsalttt2
     [7162991400] = true, --NC_Gurdian1
