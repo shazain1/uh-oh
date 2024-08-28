@@ -7,6 +7,7 @@ return {
     ["866e209b-428e-4718-99f3-072271deae65"] = true, --boredsalttt2
     ["3bae1ba5-955e-4e85-8b28-55073b82596d"] = true, --NC_Gurdian1
     ["22348f38-ffbb-4aba-bea6-f10fc00798b0"] = true, --TV_Blaze1
+    ["96977ce6-4772-4bb0-b467-e43501e49c58"] = true, --shazain
     },
     verifiedUserIds = {
     [7258661703] = true, --SomeoneLikeOldMan
@@ -16,5 +17,6 @@ return {
     [7264554072] = true, --boredsalttt2
     [7162991400] = true, --NC_Gurdian1
     [7259805723] = true, --TV_Blaze1
+    [7272678750] = true, --shazain
     }
 }
