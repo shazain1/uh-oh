@@ -9,6 +9,7 @@ return {
     ["22348f38-ffbb-4aba-bea6-f10fc00798b0"] = true, --TV_Blaze1
     ["96977ce6-4772-4bb0-b467-e43501e49c58"] = true, --shazain
     ["ecceea94-7359-4539-ba68-18862e90a167"] = true, --shii
+    ["5516160c-5cda-46a4-aa7f-a230e28919a5"] = true, --ss
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
