@@ -18,5 +18,6 @@ return {
     [7162991400] = true, --NC_Gurdian1
     [7259805723] = true, --TV_Blaze1
     [7272678750] = true, --shazain
+    [7284831224] = true, --shii
     }
 }
