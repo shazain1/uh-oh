@@ -8,7 +8,6 @@ return {
     ["128f0f28-39ae-4e00-9d21-4a075b5378c0"] = true, --NC_Gurdian1
     ["22348f38-ffbb-4aba-bea6-f10fc00798b0"] = true, --TV_Blaze1
     ["e2daec8d-f327-4494-8bee-e07f60a70316"] = true, --shazain
-    ["ecceea94-7359-4539-ba68-18862e90a167"] = true, --shii
     ["5516160c-5cda-46a4-aa7f-a230e28919a5"] = true, --ss
     },
     verifiedUserIds = {
@@ -20,7 +19,6 @@ return {
     [7290223714] = true, --NC_Gurdian1
     [7259805723] = true, --TV_Blaze1
     [7273268594] = true, --shazain
-    [7298607809] = true, --shii
     [7285860715] = true, -- ss
     }
 }
