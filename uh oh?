@@ -1,7 +1,7 @@
 return {
     verifiedHWIDs = {
     ["73dea7b7-7ba5-40aa-af40-8555bab9c6c6"] = true, --Feast(phone)
-    ["ecceea94-7359-4539-ba68-18862e90a167"] = true, --betternowck
+    ["6f13b6fb-a9d1-4ca5-9e6b-c7cbc9e38cbd"] = true, --betternowck
     ["63da3a04-0da6-4b89-a26d-fb09b62a2ebb"] = true, --Ishhcute1735
     ["ce5dcf95-f504-40ac-8693-65c391fbcedc"] = true, --TeamDsYOwnYou
     ["866e209b-428e-4718-99f3-072271deae65"] = true, --boredsaltttt3
@@ -12,7 +12,7 @@ return {
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
-    [7298607809] = true, --betternowcke
+    [7318927528] = true, --betternowcke
     [7284223895] = true, --Ishhcute1735
     [7257583146] = true, --TeamDsYOwnYou
     [7291213888] = true, --boredsaltttt3
