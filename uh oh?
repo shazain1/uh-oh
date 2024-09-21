@@ -9,6 +9,7 @@ return {
     ["22348f38-ffbb-4aba-bea6-f10fc00798b0"] = true, --TV_Blaze1
     ["1720db78-0745-4684-80a7-993f76ffb0b8"] = true, --shazain
     ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --12345abhA9
+    ["7cdce706-f38a-49d4-8b1d-03d34113f235"], --Commanderlightlord
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
@@ -20,5 +21,6 @@ return {
     [7259805723] = true, --TV_Blaze1
     [7272678750] = true, --shazain
     [7285860715] = true, --12345abhA9
+    [7369931456] = true, --Commanderlightlord
     }
 }
