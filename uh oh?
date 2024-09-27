@@ -10,6 +10,7 @@ return {
     ["68ee0995-3285-48b4-aff3-76920294f0a1"] = true, --shazain
     ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --12345abhA9
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
+    ["ddf72b46-d8eb-492f-a0cb-c81657261059"] = true, --Feast Test
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
@@ -22,5 +23,6 @@ return {
     [7272678750] = true, --shazain
     [7285860715] = true, --12345abhA9
     [7369931456] = true, --Commanderlightlord
+    [7390159304] = true, --Feast Test
     }
 }
