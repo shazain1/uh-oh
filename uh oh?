@@ -10,7 +10,7 @@ return {
     ["68ee0995-3285-48b4-aff3-76920294f0a1"] = true, --shazain
     ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --Albatroszebra
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
-    ["ddf72b46-d8eb-492f-a0cb-c81657261059"] = true, --Feast Test
+    ["b6ec3ff1-5c44-477a-861a-8fefed506590"] = true, --gyro
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
