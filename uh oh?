@@ -8,7 +8,7 @@ return {
     ["ad7d82b7-cc32-4f36-8553-d0b86826cb8d"] = true, --LittleGirl_feedback
     ["22348f38-ffbb-4aba-bea6-f10fc00798b0"] = true, --TV_Blaze1
     ["68ee0995-3285-48b4-aff3-76920294f0a1"] = true, --shazain
-    ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --12345abhA9
+    ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --Albatroszebra
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
     ["ddf72b46-d8eb-492f-a0cb-c81657261059"] = true, --Feast Test
     },
@@ -21,7 +21,7 @@ return {
     [7306565192] = true, --LittleGirl_feedback
     [7259805723] = true, --TV_Blaze1
     [7272678750] = true, --shazain
-    [7285860715] = true, --12345abhA9
+    [7392827963] = true, --Albatroszebra
     [7369931456] = true, --Commanderlightlord
     [7390159304] = true, --Feast Test
     }
