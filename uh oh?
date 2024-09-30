@@ -11,6 +11,7 @@ return {
     ["7bebc29a-43fc-4249-825d-02cde5b52842"] = true, --Albatroszebra
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
     ["b6ec3ff1-5c44-477a-861a-8fefed506590"] = true, --gyro
+    ["00e6b149-03f4-4376-ad73-7a30bdf7a2cb"] = true, --cr7
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
@@ -24,5 +25,6 @@ return {
     [7392827963] = true, --Albatroszebra
     [7369931456] = true, --Commanderlightlord
     [7305351833] = true, --gyro
+    [7387553123] = true, --cr7arda
     }
 }
