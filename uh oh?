@@ -1,6 +1,6 @@
 return {
     verifiedHWIDs = {
-    ["73dea7b7-7ba5-40aa-af40-8555bab9c6c6"] = true, --Feast(phone)
+    ["ddf72b46-d8eb-492f-a0cb-c81657261059"] = true, --Feast(phone)
     ["b8d24c97-7105-4400-957f-0d9c5e553860"] = true, --betternowcke
     ["dcec72b2-880a-4793-9033-f3110351ad30"] = true, --Ishhcute1735
     ["832d1b0d-3b95-4672-94be-c8e6c2973533"] = true, --TeamDsYOwnYou
@@ -26,5 +26,6 @@ return {
     [7369931456] = true, --Commanderlightlord
     [7305351833] = true, --gyro
     [7417393012] = true, --cr7arda
+    [7403914114] = true, FeastAlt
     }
 }
