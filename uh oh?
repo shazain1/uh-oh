@@ -12,6 +12,7 @@ return {
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
     ["b6ec3ff1-5c44-477a-861a-8fefed506590"] = true, --gyro
     ["6311eb74-d172-4900-99a6-b26ee3e2c0c1"] = true, --cr7
+    ["834FDFA0-80D5-4025-9178-D9D69CC97468"] = true, godofparry
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
@@ -27,5 +28,6 @@ return {
     [7305351833] = true, --gyro
     [7435993888] = true, --cr7arda
     [7403914114] = true, FeastAlt
+    [3646168197] = true, --godofparry
     }
 }
