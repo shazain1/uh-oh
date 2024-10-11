@@ -1,6 +1,6 @@
 return {
     verifiedHWIDs = {
-    ["ddf72b46-d8eb-492f-a0cb-c81657261059"] = true, --Feast(phone)
+    ["187021f3-c230-44c8-a4d8-71804445e1c3"] = true, --Feast(phone)
     ["b8d24c97-7105-4400-957f-0d9c5e553860"] = true, --betternowcke
     ["d3e0aa53-5df0-4884-91f3-6ed714951ac3"] = true, --Ishhcute1735
     ["832d1b0d-3b95-4672-94be-c8e6c2973533"] = true, --TeamDsYOwnYou
