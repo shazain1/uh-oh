@@ -12,7 +12,8 @@ return {
     ["7cdce706-f38a-49d4-8b1d-03d34113f235"] = true, --Commanderlightlord
     ["b6ec3ff1-5c44-477a-861a-8fefed506590"] = true, --gyro
     ["6311eb74-d172-4900-99a6-b26ee3e2c0c1"] = true, --cr7
-    ["834FDFA0-80D5-4025-9178-D9D69CC97468"] = true, godofparry
+    ["834FDFA0-80D5-4025-9178-D9D69CC97468"] = true, --godofparry
+    ["73819672-5178-4384-9b3b-d9e72d63b733"] = true, --Pamungkas
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
