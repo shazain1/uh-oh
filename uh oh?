@@ -15,6 +15,7 @@ return {
     ["834FDFA0-80D5-4025-9178-D9D69CC97468"] = true, --godofparry
     ["8635ec01-187e-4514-80ac-3101c37115aa"] = true, --Pamungkas
     ["26032F9F-F75A-4DB0-8B1D-2909FADDC6A4"] = true, --FeastTest
+    ["CE0B387C-B039-45C0-B391-EAB9F930E449"] = true,
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
