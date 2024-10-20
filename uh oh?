@@ -16,6 +16,7 @@ return {
     ["8635ec01-187e-4514-80ac-3101c37115aa"] = true, --Pamungkas
     ["26032F9F-F75A-4DB0-8B1D-2909FADDC6A4"] = true, --FeastTest
     ["CE0B387C-B039-45C0-B391-EAB9F930E449"] = true,
+    ["e80250ad-0727-4d0c-b855-c8122de676b4"] = true,
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
@@ -34,5 +35,6 @@ return {
     [3646168197] = true, --godofparry
     [7438283816] = true, --Pamungkas
     [7403914114] = true, --FeastTest
+    [6118349612] = true,
     }
 }
