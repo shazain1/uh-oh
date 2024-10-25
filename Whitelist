@@ -17,6 +17,7 @@ return {
     ["4eff430f-b94b-4978-b603-3a00c5e3dfe5"] = true, --FeastTest
     ["CE0B387C-B039-45C0-B391-EAB9F930E449"] = true,
     ["e80250ad-0727-4d0c-b855-c8122de676b4"] = true,
+    ["e0ec89c0-2a3a-11eb-ba6e-806e6f6e6963"] = true,
     },
     verifiedUserIds = {
     [4298015048] = true, --Feast
